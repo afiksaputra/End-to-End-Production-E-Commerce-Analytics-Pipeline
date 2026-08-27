@@ -1,0 +1,9 @@
+venv/
+*.pyc
+__pycache__/
+.env
+data/raw/*
+data/processed/*
+!.gitkeep
+*.parquet
+.prefect/
